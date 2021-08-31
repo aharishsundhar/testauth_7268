@@ -1,0 +1,7 @@
+{
+  "name": "testauth",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
